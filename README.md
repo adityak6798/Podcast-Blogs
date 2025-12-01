@@ -4,7 +4,9 @@ A collection of blog posts sharing thoughts and reflections on interesting podca
 
 ## 🌐 Live Site
 
-Visit the blog at: **[https://adityak6798.github.io/Podcast-Blogs/](https://adityak6798.github.io/Podcast-Blogs/)**
+Visit the blog at: <https://adityak6798.github.io/Podcast-Blogs/>
+
+> **Note:** To enable GitHub Pages, go to repository **Settings** → **Pages** → select **main** branch as the source and save.
 
 ## 📖 About
 
