@@ -1,0 +1,9 @@
+# GitHub Pages configuration for Podcast-Blogs
+title: Podcast Musings
+description: A collection of blog posts about interesting podcast episodes and insights
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site
+
+# Build settings
+markdown: kramdown
+theme: null
